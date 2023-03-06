@@ -1,0 +1,19 @@
+{
+  "name": "cms_study",
+  "version": "1.0.0",
+  "description": "hubspot CMS studies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevBrunoo/cms_study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevBrunoo/cms_study/issues"
+  },
+  "homepage": "https://github.com/DevBrunoo/cms_study#readme"
+}

@@ -1,0 +1,15 @@
+Open hubspot.com to copy your personal access key? Yes
+Opening https://app.hubspot.com/l/personal-access-key in your web browser
+? Enter your personal access key:  ***********************************************************************************************************
+? Enter a unique name to reference this account in the CLI: engcre
+
+[SUCCESS] Created config file "/workspaces/cms_study/hubspot.config.yml"
+[SUCCESS] Connected account "engcre" using "Personal Access Key" and set it as the default account
+--------------------------------------------------
+What's next?
+
+Run hs help to see a list of available commands
+
+Run hs auth to connect the CLI to additional HubSpot accounts
+
+Run hs accounts list to see a list of configured HubSpot accounts

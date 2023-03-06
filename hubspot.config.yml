@@ -1,0 +1,14 @@
+defaultPortal: engcre
+portals:
+  - name: engcre
+    portalId: 24194890
+    authType: personalaccesskey
+    auth:
+      tokenInfo:
+        accessToken: >-
+          CJf8xsjrMBILAA0AAAAA4A0DQAIYyt7ECyDVrq4NKO7pDDIUK8Hi0upvD_SFl3AOBksOPl3nJCY6NwAABEEAAAB4AAAAAAAAAAAAAAAAAAAABAAAwAcA_v8xPAAABgBEAGAAAAAAAAAAAAAAAAAAMAJCFKUeCXKjclO_fsw_2eSCo3pu8Fe5SgNuYTFSAFoA
+        expiresAt: '2023-03-06T22:36:33.176Z'
+    personalAccessKey: >-
+      CiQxYWQzOWE1NS05MWE3LTRlMjYtYTU4Ni1kM2Y2NGY0MDJmZDUQyt7ECxjVrq4NKhkABeaRgt6Zkm2xOXWNGlSmdJ2WqB0MlJXlSgNuYTE
+    sandboxAccountType: null
+    parentAccountId: null
